@@ -12,6 +12,7 @@
 		844E4A9C22F8B96000953C04 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 844E4A9A22F8B96000953C04 /* Main.storyboard */; };
 		844E4A9E22F8B96300953C04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 844E4A9D22F8B96300953C04 /* Assets.xcassets */; };
 		844E4AA122F8B96300953C04 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 844E4A9F22F8B96300953C04 /* LaunchScreen.storyboard */; };
+		844E4AA922F8BD6100953C04 /* PersonalCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 844E4AA822F8BD6100953C04 /* PersonalCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		844E4A9D22F8B96300953C04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		844E4AA022F8B96300953C04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		844E4AA222F8B96300953C04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		844E4AA822F8BD6100953C04 /* PersonalCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonalCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				844E4A9622F8B96000953C04 /* AppDelegate.swift */,
 				844E4A9822F8B96000953C04 /* ViewController.swift */,
 				844E4A9A22F8B96000953C04 /* Main.storyboard */,
+				844E4AA822F8BD6100953C04 /* PersonalCell.swift */,
 				844E4A9D22F8B96300953C04 /* Assets.xcassets */,
 				844E4A9F22F8B96300953C04 /* LaunchScreen.storyboard */,
 				844E4AA222F8B96300953C04 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				844E4A9922F8B96000953C04 /* ViewController.swift in Sources */,
 				844E4A9722F8B96000953C04 /* AppDelegate.swift in Sources */,
+				844E4AA922F8BD6100953C04 /* PersonalCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
