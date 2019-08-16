@@ -14,4 +14,6 @@ class PersonalCell: UICollectionViewCell {
     
     @IBOutlet var name: UILabel!
     
+    
+    
 }
